@@ -1,0 +1,3 @@
+[submodule "bigrepolibx"]
+	path = bigrepolibx
+	url = https://github.com/tntai/libx.git
