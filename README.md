@@ -1,6 +1,7 @@
 # bigrepo
-Convert directory to git submodules 
-- Original repo at https://github.com/tntai/bigrepo/tree/v1.0
+Convert bigrepolibx directory to git submodules https://github.com/tntai/libx.git
+
+> Original repo at https://github.com/tntai/bigrepo/tree/v1.0
 
 ### Extract bigrepolibx folder to git repo
 - Clone original repo
